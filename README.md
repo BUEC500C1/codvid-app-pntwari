@@ -34,25 +34,25 @@ To trigger this, the user must press on the country for which the statistics are
 
 ## Results
 Thi is what should be seen after clicking on one of the countries.
- ![After_Press]()
+ ![After_Press](https://github.com/BUEC500C1/codvid-app-pntwari/blob/master/images/worldwide_map.JPG)
 
 
 ### EARLIER STEPS
 The above is the final product. However, many in-between steps led to this moment, and are thus documented below, mostly in the form of images. 
 
 The initial step was to display an app with hello world. 
- ![helloworld]()
+ ![helloworld](https://github.com/BUEC500C1/codvid-app-pntwari/blob/master/images/starting_app.JPG)
  
 The next step was to display a map centered around Boston.
- ![boston]()
+ ![boston](https://github.com/BUEC500C1/codvid-app-pntwari/blob/master/images/boston_map_southend.JPG)
  
  After this, a map centered around the Americas was displayed, with modified zoom values for effectiveness.
- ![americas]()
+ ![americas](https://github.com/BUEC500C1/codvid-app-pntwari/blob/master/images/americas_map.JPG)
  
  With respect to Covid-19 data, there was a step to simply fetch API data and display on screen without a map. 
- ![covid]()
+ ![covid](https://github.com/BUEC500C1/codvid-app-pntwari/blob/master/images/safrica_covid.JPG)
  
  The Covid-19 data overal on the map took several steps as well. The first was with the country cases displayed in a scroll at the bottom of the display, but these displays could not change with input form the user.
- ![static]()
+ ![static](https://github.com/BUEC500C1/codvid-app-pntwari/blob/master/images/world_map_rona_initial.JPG)
  
  Finally, functionality was added for onPress, and when the event is recognized, the return is a rendered text box with the country and world data. 
