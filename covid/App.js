@@ -16,7 +16,7 @@ import MapView, { PROVIDER_GOOGLE } from "react-native-maps";
 import {Marker} from "react-native-maps";
 import {Callout} from "react-native-maps";
 
-Geocoder.init('AIzaSyB8tDrHBlBTFcRQvwXUt13qHSxtC9fdVho');
+Geocoder.init('');
 
 //importing the slugs needed for API - geocoding will output normal country name, not slug
 import slugdata from './country_slugs.json';
